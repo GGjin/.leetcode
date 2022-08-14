@@ -6,9 +6,8 @@
 
 // @lc code=start
 
-
-void nextPermutation(int* nums, int numsSize){
-
+void nextPermutation(int *nums, int numsSize)
+{
+    int a = 1;
 }
 // @lc code=end
-
